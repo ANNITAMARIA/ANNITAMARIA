@@ -32,9 +32,7 @@ Role and Responsibilities of the Cybersecurity Blue Team:
 
   </p>
   
-</details>
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+## 🛠️ Favorite Tools Skills
     <p align="center">
       <a href="https://github.com/Annitamaria"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python"/>
         <code><img height="40" 
