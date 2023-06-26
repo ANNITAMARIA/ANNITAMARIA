@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
-
 <!--
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-
+ <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-
