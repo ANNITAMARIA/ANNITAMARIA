@@ -1,4 +1,4 @@
- ### Hi there, I'm Anna 👋
+ ### Hello there! I'm Anna 👋
 
 ## All About me 
 
