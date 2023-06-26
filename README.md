@@ -21,10 +21,10 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
 |-----------|------------|
 |Red Team|[Syncfusion.DocIO.WinForms.nupkg](https://docs.google.com/document/d/1m6tbMO9jo2y3uSIq1DDq1J46ZTvGD55g/edit)|
 |Blue Team|[Syncfusion.DocIO.Wpf.nupkg](https://docs.google.com/document/d/1Y3jTM8IZt5Ko_xCCOoWQBgfKCeTjugJX/edit)|
-|Traffic Analysis|[Syncfusion.DocIO.AspNet.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet/)|
-|Network & Vulnerability Scanning|[Syncfusion.DocIO.AspNet.Mvc4.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet.Mvc4/)|
-|SEIM|[Syncfusion.DocIO.AspNet.Mvc5.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet.Mvc5/)|
-|ASP.NET Core and Blazor|[Syncfusion.DocIO.Net.Core.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Net.Core/)|
+|Traffic Analysis Part 1|[Syncfusion.DocIO.AspNet.nupkg](https://docs.google.com/document/d/1FLm92Z5pkZhyXqV6wSwL9ZqT3yQhZi9w/edit)|
+|Traffic Analysis Part 2|[Syncfusion.DocIO.AspNet.Mvc4.nupkg](https://docs.google.com/document/d/1Y3jTM8IZt5Ko_xCCOoWQBgfKCeTjugJX/edit)|
+|Network & Vulnerability Scanning|[Syncfusion.DocIO.AspNet.Mvc5.nupkg](https://docs.google.com/document/d/1iIae9Kq01tyd-PU7DzULhajmCHr9bA7T/edit)|
+|SEIM|[Syncfusion.DocIO.Net.Core.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Net.Core/)|
 |Xamarin|[Syncfusion.Xamarin.DocIO.nupkg](https://www.nuget.org/packages/Syncfusion.Xamarin.DocIO/)|
 |Contributors|[Syncfusion.DocIO.UWP.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.UWP/)|
 
