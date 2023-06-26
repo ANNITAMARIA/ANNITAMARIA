@@ -1,15 +1,17 @@
- ### Hello there! I'm Anna 👋
-
-## All About me 
-
-## 
-
-![App Screenshot](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)
-
- Cybersecurity is a crucial aspect of any organization that deals with sensitive information or data. With the growing reliance on technology and the internet, organizations are vulnerable to cyber attacks that can result in financial losses, reputation damage, and legal liabilities. In this paper, we will discuss cybersecurity defense strategies that organizations can adopt to protect their systems and data.
-     In cybersecurity, the blue team refers to the team responsible for defending an organization's systems and data from cyber attacks. The blue team's objective is to maintain the confidentiality, integrity, and availability of an organization's assets by detecting and responding to cyber threats.
-Role and Responsibilities of the Cybersecurity Blue Team:
-1. Threat Detection: The blue team is responsible for detecting cyber threats and vulnerabilities in an organization's systems and networks. They use a variety of tools and techniques, including intrusion detection systems, log analysis, and vulnerability assessments, to identify potential threats.
+### Hello World, My name is Francisco!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+<!-- EMPTY SPACE -->
+## :computer: Social Media
+<p>
+  <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+   </a>
+</p>
+<!-- EMPTY SPACE -->
+## :hammer_and_wrench: Technical Skills
+<p align="left">
+    <a href="https://github.com/killbay">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,python,html,markdown,wordpress,vscode,discord" /></a>
+</p>
 
 
 </details>
@@ -32,17 +34,6 @@ Role and Responsibilities of the Cybersecurity Blue Team:
 
   </p>
   
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <p align="center">
-    <a href="https://github.com/Annitamaria"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python"/>
-       <code><img height="40" 
-     </a>
-  </p>
-
-   <summary><h2>:computer: Social Media 💻 </h2></summary>
-<p align="center">
-   <a href="https://www.linkedin.com/in/anna-mendez//">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
    
   
 </p>
