@@ -7,7 +7,7 @@ My expertise extends across a range of domains, including network security, and 
 
   What truly fuels my passion for cyber security is the critical role it plays in safeguarding sensitive information and preserving the trust of individuals and organizations. I am committed to staying at the forefront of emerging threats and industry trends through continuous learning.
 
-I am currently a fellow at The Knowledge House with an expected graduation date of September 2023.
+I am currently majoring in cybersecurity at The Knowledge House, with an expected graduation date of September 2023.
 I am excited to leverage my experience to drive meaningful change and protect against cyber threats. With a focus on collaboration, innovation, and meticulous attention to detail, I am driven to make a lasting impact in the cyber security field.
 
 Thank you for taking the time to learn more about me. I welcome opportunities to connect, collaborate, and contribute to the ever-evolving field of cyber security.
