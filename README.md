@@ -41,7 +41,7 @@ Role and Responsibilities of the Cybersecurity Blue Team:
 </details>
   
   ### Social Media 💻 
-    <p>
+<p>
   <a href="https://www.linkedin.com/in/anna-mendez//">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   
