@@ -29,7 +29,7 @@
   </p>
 
   </p>
-</details>
+
 
 <details open> 
 
