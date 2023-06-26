@@ -27,15 +27,8 @@
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  ## Technical Skills
 <p align="center">
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python,html,css,markdown,visual studio," /></a>
 </p>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  
-
-
-
-</a></p>
+ 
 </details>
--->
