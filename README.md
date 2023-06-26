@@ -1,4 +1,4 @@
-### Hello World, My name is Francisco!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hello there! My name is Anna!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <!-- EMPTY SPACE -->
 ## :computer: Social Media
 <p>
