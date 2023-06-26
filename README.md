@@ -30,7 +30,7 @@
 <!-- EMPTY SPACE -->
 ## :hammer_and_wrench: Technical Skills
 <p align="left">
-    <a href="https://github.com/killbay">
+    <a href="https://github.com/ANNITAMARIA">
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,python,"
       /></a>
 </p>
