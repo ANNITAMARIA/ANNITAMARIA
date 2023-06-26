@@ -17,7 +17,7 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
   <p align="left">
     
-|Platform(s)|Package name|
+|CyberSecurity Range|Package name|
 |-----------|------------|
 |Red Team|[Syncfusion.DocIO.WinForms.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.WinForms/)|
 |Blue Team|[Syncfusion.DocIO.Wpf.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Wpf/)|
