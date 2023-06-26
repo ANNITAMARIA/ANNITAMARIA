@@ -14,7 +14,7 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
 
 </p>
 <br/>
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>📕 Top Projects I've Contributed To: </h2></summary>
   <p align="left">
     
 |CyberSecurity Range|Technical Documentation|
