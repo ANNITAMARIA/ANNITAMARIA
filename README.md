@@ -2,13 +2,15 @@
 
 ### Hello there! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 
-I'm Anna Mendez, a dedicated cyber security professional with a strong background in network security and data protection."
- 
+ Hello, I'm Anna Mendez a dedicated cybersecurity professional with a strong background network security, data protection, and risk management. I have successfully implemented robust security measures and frameworks, aligning them with industry standards. I am proficient in utilizing advanced security tools, including SIEM systems, intrusion detection systems, and vulnerability assessment tools, to identify and mitigate potential risks proactively.
+My expertise extends across a range of domains, including network security, incident response, and security architecture. What truly fuels my passion for cyber security is the critical role it plays in safeguarding sensitive information and preserving the trust of individuals and organizations. I am committed to staying at the forefront of emerging threats and industry trends through continuous learning and participation in security conferences and training programs.
 
-As a cybersecurity engineer, your role involves designing, developing, and implementing various measures to protect computer systems, networks, and data from unauthorized access, attacks, and vulnerabilities. Here's a detailed explanation of the design, development, and implementation process in cybersecurity:
 
-1. Design Phase:
-- Identify Requirements: Understand the organization's security goals, compliance regulations, and risk assessment to determine the necessary security measures.
+I am currently a fellow at The Knowledge House with an expected graduation date of September 2023.
+I am excited to leverage my experience to drive meaningful change and protect against cyber threats. With a strong focus on collaboration, innovation, and meticulous attention to detail, I am driven to make a lasting impact in the cyber security field.
+
+Thank you for taking the time to learn more about me. I welcome opportunities to connect, collaborate, and contribute to the ever-evolving field of cyber security.
+
 
 </details>
 </details>
