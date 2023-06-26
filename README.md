@@ -1,6 +1,4 @@
-### Hi there 👋
-# Cyber Range Team Capstone Project Summary - Blue team  
-
+### Hi there, I'm Anna 👋
 
 ## 
 
