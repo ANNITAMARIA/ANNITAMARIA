@@ -21,14 +21,13 @@
 
   </p>
 
-
   
 </details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-<p align="center">
-    <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python,html,css,markdown,visual studio," /></a>
-</p>
+    <p align="center">
+      <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python,html,css,markdown,visual studio," /></a>
+    </p>
  
 </details>
