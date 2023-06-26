@@ -19,7 +19,7 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
     
 |Platform(s)|Package name|
 |-----------|------------|
-|Windows Forms|[Syncfusion.DocIO.WinForms.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.WinForms/)%7C
+|Windows Forms|[Syncfusion.DocIO.WinForms.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.WinForms/)|
 |WPF|[Syncfusion.DocIO.Wpf.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Wpf/)|
 |ASP.NET |[Syncfusion.DocIO.AspNet.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet/)|
 |ASP.NET MVC4|[Syncfusion.DocIO.AspNet.Mvc4.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet.Mvc4/)|
