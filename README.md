@@ -31,8 +31,6 @@
   </p>
 
 
-<details open> 
-
   
 </details>
 
