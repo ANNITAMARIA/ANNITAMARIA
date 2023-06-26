@@ -2,7 +2,7 @@
 
 ### Hello there! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 
-  I'm Anna Mendez a dedicated cybersecurity professional with a strong background in network security, data protection, and risk management. I am proficient in utilizing advanced security tools, including SIEM systems, intrusion detection systems, and vulnerability assessment tools, to identify and mitigate potential risks proactively.
+  I'm Anna Mendez, a dedicated cybersecurity professional with a strong background in network security, data protection, and risk management. I am proficient in utilizing advanced security tools, including SIEM systems, intrusion detection systems, and vulnerability assessment tools, to identify and mitigate potential risks proactively.
 My expertise extends across a range of domains, including network security, and incident response. 
 
   What truly fuels my passion for cyber security is the critical role it plays in safeguarding sensitive information and preserving the trust of individuals and organizations. I am committed to staying at the forefront of emerging threats and industry trends through continuous learning.
