@@ -1,19 +1,5 @@
 ### Hello there! My name is Anna!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <!-- EMPTY SPACE -->
-## :computer: Social Media
-<p>
-  <a href="https://www.linkedin.com/in/anna-mendez/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-   </a>
-</p>
-<!-- EMPTY SPACE -->
-## :hammer_and_wrench: Technical Skills
-<p align="left">
-    <a href="https://github.com/killbay">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,python,"
-      /></a>
-</p>
-
 
 </details>
 </details>
