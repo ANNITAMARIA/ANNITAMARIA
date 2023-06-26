@@ -38,8 +38,7 @@ Role and Responsibilities of the Cybersecurity Blue Team:
        <code><img height="40" 
      </a>
   </p>
-## Social Media
-##
+
    <summary><h2>:computer: Social Media 💻 </h2></summary>
 <p align="center">
    <a href="https://www.linkedin.com/in/anna-mendez//">
@@ -48,4 +47,4 @@ Role and Responsibilities of the Cybersecurity Blue Team:
   
 </p>
  
-</details>
+
