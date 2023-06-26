@@ -17,7 +17,7 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
   <p align="left">
     
-|CyberSecurity Range|Package name|
+|CyberSecurity Range|Technical Documentation|
 |-----------|------------|
 |Red Team|[Syncfusion.DocIO.WinForms.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.WinForms/)|
 |Blue Team|[Syncfusion.DocIO.Wpf.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Wpf/)|
@@ -26,7 +26,7 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
 |SEIM|[Syncfusion.DocIO.AspNet.Mvc5.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet.Mvc5/)|
 |ASP.NET Core and Blazor|[Syncfusion.DocIO.Net.Core.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Net.Core/)|
 |Xamarin|[Syncfusion.Xamarin.DocIO.nupkg](https://www.nuget.org/packages/Syncfusion.Xamarin.DocIO/)|
-|UWP|[Syncfusion.DocIO.UWP.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.UWP/)|
+|Contributers|[Syncfusion.DocIO.UWP.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.UWP/)|
 
    
 <!-- EMPTY SPACE -->
