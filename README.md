@@ -17,9 +17,7 @@
 </details>
 <details open> 
 </p>
-
 <br/>
-
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
