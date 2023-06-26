@@ -13,9 +13,7 @@ I am excited to leverage my experience to drive meaningful change and protect ag
 Thank you for taking the time to learn more about me. I welcome opportunities to connect, collaborate, and contribute to the ever-evolving field of cyber security.
 
 
-</details>
-</details>
-<details open> 
+
 </p>
 <br/>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
