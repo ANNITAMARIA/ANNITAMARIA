@@ -1,4 +1,4 @@
-# ANNA MENDEZ
+#  <p align="center"> ANNA MENDEZ
 # All about me:
 
 ### Hello there, My name is Anna Mendez  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
