@@ -2,7 +2,7 @@
 <!-- EMPTY SPACE -->
 ## :computer: Social Media
 <p>
-  <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
+  <a href="https://www.linkedin.com/in/anna-mendez/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
    </a>
 </p>
