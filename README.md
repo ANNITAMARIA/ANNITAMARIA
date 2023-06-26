@@ -40,5 +40,14 @@ Role and Responsibilities of the Cybersecurity Blue Team:
     <p align="center">
       <a href="https://github.com/Annitamaria"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python"/></a>
     </p>
+
+    <p>
+  <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+   </a>
+  <a href="https://github.com/killbay">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
  
 </details>
