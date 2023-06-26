@@ -1,8 +1,8 @@
+ANNA MENDEZ 
+# All about me:
+
 ### Hello there! My name is Anna!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <!-- EMPTY SPACE -->
-
-
-# All about me:
 As a cybersecurity engineer, your role involves designing, developing, and implementing various measures to protect computer systems, networks, and data from unauthorized access, attacks, and vulnerabilities. Here's a detailed explanation of the design, development, and implementation process in cybersecurity:
 
 1. Design Phase:
