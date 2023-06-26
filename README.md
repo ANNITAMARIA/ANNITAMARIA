@@ -45,12 +45,13 @@ Role and Responsibilities of the Cybersecurity Blue Team:
    <summary><h2>:computer: Social Media 💻 </h2></summary>
 <p align="center">
   <a href="https://www.linkedin.com/in/anna-mendez//">
-  
-   <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+ 
   
    
    <a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+   <a href="mailto:aditya.pal.science@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
    
   
 </p>
