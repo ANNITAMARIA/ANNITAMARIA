@@ -38,8 +38,9 @@ Role and Responsibilities of the Cybersecurity Blue Team:
     <p align="center">
       <a href="https://github.com/Annitamaria"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python"/></a>
     </p>
- </details
-  ## Social Media 💻 
+</details>
+  
+  ### Social Media 💻 
     <p>
   <a href="https://www.linkedin.com/in/anna-mendez//">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
