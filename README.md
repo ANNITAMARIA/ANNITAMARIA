@@ -1,6 +1,6 @@
 #  <p align="center"> ANNA MENDEZ
 
-### Hello there! 
+### Hello there! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 
 I'm Anna Mendez  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 
