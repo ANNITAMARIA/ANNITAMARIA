@@ -1,5 +1,3 @@
-#  <p align="center"> ANNA MENDEZ
-
 ### Hello there! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 
   I'm Anna Mendez, a dedicated cybersecurity professional with a background in network security, data protection, and risk management. I am proficient in utilizing advanced security tools, including SIEM systems, intrusion detection systems, and vulnerability assessment tools, to identify and mitigate potential risks proactively.
