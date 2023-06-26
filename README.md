@@ -44,7 +44,7 @@ Role and Responsibilities of the Cybersecurity Blue Team:
 <p align="center">
   <a href="https://www.linkedin.com/in/anna-mendez//">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-    [nbsp; <a href="mailto:amendez423@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+     <a href="mailto:amendez423@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 </p>
  
