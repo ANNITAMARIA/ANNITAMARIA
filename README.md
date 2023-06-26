@@ -1,4 +1,15 @@
 ### Hi there 👋
+# Cyber Range Team Capstone Project Summary - Blue team  
+
+
+## 
+
+![App Screenshot](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)
+
+ Cybersecurity is a crucial aspect of any organization that deals with sensitive information or data. With the growing reliance on technology and the internet, organizations are vulnerable to cyber attacks that can result in financial losses, reputation damage, and legal liabilities. In this paper, we will discuss cybersecurity defense strategies that organizations can adopt to protect their systems and data.
+     In cybersecurity, the blue team refers to the team responsible for defending an organization's systems and data from cyber attacks. The blue team's objective is to maintain the confidentiality, integrity, and availability of an organization's assets by detecting and responding to cyber threats.
+Role and Responsibilities of the Cybersecurity Blue Team:
+1. Threat Detection: The blue team is responsible for detecting cyber threats and vulnerabilities in an organization's systems and networks. They use a variety of tools and techniques, including intrusion detection systems, log analysis, and vulnerability assessments, to identify potential threats.
 
 
 </details>
