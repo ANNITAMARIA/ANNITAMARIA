@@ -16,7 +16,7 @@ Thank you for taking the time to learn more about me. I welcome opportunities to
 <br/>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
   <p align="left">
-  |Platform(s)|Package name|
+|Platform(s)|Package name|
 |-----------|------------|
 |Windows Forms|[Syncfusion.DocIO.WinForms.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.WinForms/)%7C
 |WPF|[Syncfusion.DocIO.Wpf.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Wpf/)%7C
