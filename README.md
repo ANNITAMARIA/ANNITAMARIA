@@ -10,7 +10,8 @@
 ## :hammer_and_wrench: Technical Skills
 <p align="left">
     <a href="https://github.com/killbay">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,python,html,markdown,wordpress,vscode,discord" /></a>
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,python,"
+      /></a>
 </p>
 
 
@@ -33,6 +34,20 @@
   </p>
 
   </p>
+
+  ## :computer: Social Media
+<p>
+  <a href="https://www.linkedin.com/in/anna-mendez/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+   </a>
+</p>
+<!-- EMPTY SPACE -->
+## :hammer_and_wrench: Technical Skills
+<p align="left">
+    <a href="https://github.com/killbay">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,python,"
+      /></a>
+</p>
   
    
   
